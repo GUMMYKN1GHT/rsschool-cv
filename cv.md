@@ -1,6 +1,5 @@
 # __Ilya Potapov__
 *Javascript Developer*
-[](image/avatar.heic)
 
  Minsk
 +375259716908
