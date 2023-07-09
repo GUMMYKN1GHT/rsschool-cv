@@ -1,6 +1,6 @@
 # __Ilya Potapov__
 *Javascript Developer*
-[](357644643_1648948065531154_3757756998372433989_n.heic)
+[](avatar.heic)
 
  Minsk
 +375259716908
