@@ -1,6 +1,5 @@
 # __Ilya Potapov__
 *Javascript Developer*
-[](https://github.com/GUMMYKN1GHT/rsschool-cv/blob/gh-pages/avatar.heic)
 
  Minsk
 +375259716908
