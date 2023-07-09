@@ -1,6 +1,6 @@
 # __Ilya Potapov__
 *Javascript Developer*
-[](357644643_1648948065531154_3757756998372433989_n.heic)
+[](image/avatar.heic)
 
  Minsk
 +375259716908
@@ -9,15 +9,14 @@
 The work is extremely interesting and varied and very specific.
 I love discovering something new. I think that __JavaScrip__ will become a lazy opposite of my previous activity
 
-
+###
 PERSONAL INFORMATION
-  Address: Belarus, Minsk 
-  Date of birth: 30.07.1991 
-  Nationality: 
-  Driving License: B\C category
-  Hobbies: Adventure, gaming, learning
+ Address: Belarus, Minsk 
+Date of birth: 30.07.1991  
+ Driving License: B\C category
+Hobbies: Adventure, gaming, learning
 
-SOCIAL PROFILES
+####SOCIAL PROFILES
  Discord: Gummy_knight
 
 SKILLS
